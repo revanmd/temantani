@@ -267,6 +267,7 @@ label{
 input{
 	border: solid 1px #f0f0f0 !important;
 	height: 45px;
+	background-color: #F7F7F7;
 
 }
 
@@ -332,4 +333,7 @@ th{
 }
 .lahan-box{
 	padding: 20px;
+}
+.tambah-area input{
+	background-color: #F7F7F7;
 }
