@@ -172,7 +172,8 @@ table{
 		font-size: 12px;
 	}
 	#full-table{
-		width: 800px !important
+		min-width: 600px;
+		max-width: 900px !important
 	}
 	#penugasan{
 		padding-top: 0;
