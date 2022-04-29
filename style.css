@@ -127,7 +127,7 @@ h3{
 	border: none;
 	border-radius: 0 !important;
 	font-size: 14px;
-	height: 43px;
+	height: 40px;
 }
 .btn-sub:hover{
 	background-color: #2D338E;
@@ -150,7 +150,7 @@ table{
 		margin-bottom: 20px
 	}
 	.mobnone{
-		display: block;
+		display: inline-block;
 	}
 	section, .navbar{
 		padding: 20px;
@@ -220,7 +220,7 @@ body.bg{
 }
 .login-box input{
 	background-color: #F7F7F7;
-	height: 45px;
+	height: 40px;
 	border: solid 1px #e4e4f6;
 }
 
@@ -266,7 +266,7 @@ label{
 }
 input{
 	border: solid 1px #f0f0f0 !important;
-	height: 45px;
+	height: 40px;
 	background-color: #F7F7F7;
 
 }
@@ -336,4 +336,8 @@ th{
 }
 .tambah-area input{
 	background-color: #F7F7F7;
+}
+select{
+	height: 40px;
+	font-size: 14px !important
 }
